@@ -1,0 +1,6 @@
+
+/.idea/
+/haoke-manage-api-server/target/
+/haoke-manage-dubbo-server/haoke-manage-dubbo-server-generator/target/
+/haoke-manage-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources-dubbo-interface/target/
+/haoke-manage-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources-dubbo-service/target/
